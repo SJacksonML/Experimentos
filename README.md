@@ -1,2 +1,3 @@
 # Experimentos
-não sei ainda do que se trata
+
+Teste inicial das técnicas de POO utilizando Poetry
